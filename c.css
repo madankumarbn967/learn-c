@@ -1,0 +1,17 @@
+body{
+    background-color: rgba(199, 237, 237, 0.91);
+   
+    
+}
+
+table{
+    border-left: 20px;
+    width: 15cm;
+    height: 7cm;
+   margin-left: auto;
+   margin-right: auto;
+   
+}
+h1{
+    text-align: center;
+}
